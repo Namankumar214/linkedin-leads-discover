@@ -1,0 +1,4 @@
+linkdapi>=1.0.0
+rich>=13.0.0
+questionary>=2.0.0
+aiofiles>=23.0.0
